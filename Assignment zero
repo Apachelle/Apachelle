@@ -1,0 +1,50 @@
+Name: Ohiokhie Elizabeth
+Slack ID: Apachelle
+Email: elizabethohiokhie@gmail.com
+
+Task:
+1.	Analyze a Dataset:
+2.	Select one of the following datasets to generate marketing insights:
+•	Retail Sales Data (Marketing-Focused)
+
+TASK ANSWER :
+1. Profitability Trends
+•	The dataset includes sales, quantity, discount, profit, and loss data for different product categories.
+•	A "Loss" column which indicates cases where discounts are too high or certain products are not profitable was created.
+•	Some products have high sales but low-profit margins, which suggests they may be heavily discounted (e.g., Tables with a high loss amount).
+2. Top-Selling Products
+•	Furniture, Office Supplies, and Technology are the main products in the category
+•	Phones, Binders, and Storage units also appear multiple times, indicating they might be best-sellers.
+3. Shipping Trends
+•	The dataset includes consumer segments but doesn’t seem to show the difference between business customers and individual customers
+•	Standard Class shipping is more common which means that customers prefer cost-effective delivery to express or other options.
+4. Regional Insights
+•	West and South regions appear frequently, also indicating high demand in these regions.
+5. Discount Patterns
+•	Some products (e.g., Tables) have 0.45 discounts, while many have 0.2 or none at all.
+•	Tracking how discounts affect profit-making can help adjust pricing strategies.
+
+
+Marketing Insight Report
+This report is my analysis of sales trends, customer behavior, and profits across various product categories and regions. The objective is to identify key patterns that can guide marketing and business strategies.
+Observations:
+1. Sales & Profitability Trends
+•	The dataset reveals that high sales do not always correlate with high profits. Some products, such as Tables, have significant losses due to heavy discounting.
+•	Furniture, Office Supplies, and Technology are the primary product categories, with varying levels of profitability.
+2. Top-Selling Products
+•	Phones, Binders, and Storage Units appear frequently in the dataset, indicating that they may be among the best-selling items.
+•	The sales volume of a product does not necessarily translate to high profits, as some of these items have large discounts.
+3. Shipping Trends
+•	Most purchases fall under the consumer segment, suggesting a focus on retail customers rather than businesses.
+•	Standard Class shipping is the most frequently used shipping mode, indicating that customers prioritize cost efficiency over speed.
+4. Regional Sales Insights
+•	Sales appear to be strongest in the West and South regions, highlighting potential key markets.
+•	Understanding regional demand can help in optimizing marketing and distribution strategies.
+5. Discount & Pricing Strategies
+•	Some products have high discount rates (up to 45%), which directly impacts profitability.
+•	A more strategic discounting approach is needed to ensure that discounts do not erode profits.
+Recommendation:
+•	Reduce discounts on high-selling but low-profit products like Tables.
+•	Products with consistent demand and strong margins should receive more promotional attention.
+•	Invest more in advertising and distribution in high-performing regions like the West and South.
+•	If cost-effective, consider incentivizing customers to opt for faster shipping options.
